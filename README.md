@@ -106,7 +106,7 @@ User-specific: @pytest.mark.negative, @pytest.mark.e2e
 George Petre
 📍 Sturry, UK
 📧 george.petre23@gmail.com
-🌐 Portfolio
+🌐 https://georgempetre.github.io/
 
 
 📌 Notes
